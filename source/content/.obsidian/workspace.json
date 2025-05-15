@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Calculus/Parametric Curve Fundamentals.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Parametric Curve Fundamentals"
+            }
+          },
+          {
+            "id": "72f1190cb4e8b735",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Systems of Linear Equations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Systems of Linear Equations"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -94,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Systems of Linear Equations.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for index"
+              "title": "Backlinks for Systems of Linear Equations"
             }
           },
           {
@@ -113,12 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "index.md",
+                "file": "Systems of Linear Equations.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from index"
+              "title": "Outgoing links from Systems of Linear Equations"
             }
           },
           {
@@ -142,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "index.md",
+                "file": "Systems of Linear Equations.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of index"
+              "title": "Outline of Systems of Linear Equations"
             }
           }
         ]
@@ -169,11 +184,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "72f1190cb4e8b735",
   "lastOpenFiles": [
-    "To-Do List.md",
     "index.md",
     "Skills Checklist.md",
+    "Systems of Linear Equations.md",
+    "z_Attachments/Linear_1.1_notes.pdf",
+    "Calculus/Parametric Curve Fundamentals.md",
+    "To-Do List.md",
     "category-folder/Some note.md",
     "category-folder/index.md",
     "z_Attachments/Pasted image 20250506123046.png",
@@ -204,9 +222,6 @@
     "Physics I-B/5 - Angular Momentum.md",
     "Physics I-B/4 - Rotational Kinetic Energy.md",
     "Physics I-B/3 - Moment of Inertia.md",
-    "Physics I-B/2 - Torque, Static Equilibrium.md",
-    "Physics I-B/13 - Light Waves - 2.md",
-    "Physics I-B/12 - Light Waves - 1.md",
     "Physics I-B",
     "Other Physics",
     "MITx E&M",
