@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "index.md",
+                "file": "Skills Checklist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "Skills Checklist"
             }
           }
         ],
@@ -198,11 +198,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b77831b90dd9f87b",
+  "active": "24c8949b5119d231",
   "lastOpenFiles": [
+    "index.md",
     "Intro to Linear Algebra",
     "Untitled.md",
-    "index.md",
     "Other Physics/Fourier Transform - Principle.md",
     "Physics I-B/Fluid Statics.md",
     "Physics I-B/Fluid Dynamics.md",
@@ -240,7 +240,6 @@
     "Physics I-B",
     "Other Physics",
     "MITx E&M",
-    "Calculus",
-    "category-folder"
+    "Calculus"
   ]
 }
