@@ -198,8 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "24c8949b5119d231",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
+    "Intro to Linear Algebra",
+    "Untitled.md",
     "index.md",
     "Other Physics/Fourier Transform - Principle.md",
     "Physics I-B/Fluid Statics.md",
@@ -216,7 +218,7 @@
     "Physics I-B/2 - Torque, Static Equilibrium.md",
     "Physics I-B/3 - Moment of Inertia.md",
     "Physics I-B/1 - Rotational Kinematics.md",
-    "Systems of Linear Equations.md",
+    "Intro to Linear Algebra/Systems of Linear Equations.md",
     "Calculus/Parametric Curve Fundamentals.md",
     "Skills Checklist.md",
     "z_Attachments/Linear_1.1_notes.pdf",
@@ -234,8 +236,6 @@
     "z_Attachments",
     "Statics/Shear Force, Bending Moment Diagrams.md",
     "Statics/Trusses.md",
-    "Statics/Relations between Distributed Load, Shear, Moment.md",
-    "Statics/Frames and Machines.md",
     "Statics",
     "Physics I-B",
     "Other Physics",
