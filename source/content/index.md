@@ -1,7 +1,5 @@
 ---
-title: My GitHub Pages Notebook!
+title: TL BLOG
 ---
 
-Hello world!
-
-Write some words here!
+My college Obsidian notebook.
