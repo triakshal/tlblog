@@ -1,5 +1,5 @@
 The SI units for charge Q is the Coulomb.
-Charge is qsuantised, meaning the charge of anything is an integer multiple of $e/3$. 
+Charge is quantised, meaning the charge of anything is an integer multiple of $e/3$. 
 The charges of the proton and electron are exactly opposite: $$\pm 1.602*10^{19} C$$
 Charge is conserved, meaning that new charge can't be created. Like charges repel, while opposite charges attract. 
 
