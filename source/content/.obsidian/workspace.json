@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics I-B/Fluid Statics.md",
+                "file": "Other Physics/Fourier Transform - Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Fluid Statics"
+              "title": "Fourier Transform - Principle"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics I-B/Fluid Statics.md",
+                "file": "Other Physics/Fourier Transform - Principle.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Fluid Statics"
+              "title": "Backlinks for Fourier Transform - Principle"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics I-B/Fluid Statics.md",
+                "file": "Other Physics/Fourier Transform - Principle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Fluid Statics"
+              "title": "Outgoing links from Fourier Transform - Principle"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics I-B/Fluid Statics.md",
+                "file": "Other Physics/Fourier Transform - Principle.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fluid Statics"
+              "title": "Outline of Fourier Transform - Principle"
             }
           }
         ]
@@ -200,13 +200,13 @@
   },
   "active": "24c8949b5119d231",
   "lastOpenFiles": [
+    "Physics I-B/Fluid Statics.md",
     "Physics I-B/Fluid Dynamics.md",
     "Physics I-B/Images from Lenses.md",
     "Physics I-B/13 - Light Waves - 2.md",
     "Physics I-B/12 - Light Waves - 1.md",
     "Physics I-B/11 - Sound Waves - 2.md",
     "Physics I-B/10 - Sound Waves - 1.md",
-    "Physics I-B/Fluid Statics.md",
     "Physics I-B/9 - Mechanical Waves.md",
     "Physics I-B/8 - Harmonic Oscillator.md",
     "Physics I-B/5 - Angular Momentum.md",
